@@ -38,7 +38,7 @@
 
 **Domain**: Image Detection and Identification
 
-**Tags**: Machine Learning
+**Tags**: Machine Learning (Computer Vision)
 
 **Technology**: GCP AutoML Vision, Azure ML Studio
 
@@ -50,3 +50,71 @@
 - [GCP AutoML Vision](https://console.cloud.google.com/vertex-ai/publishers/google/model-garden/automl-vision-image-object-detection?project=terraformprojects-360913)
 - [Configure AutoML with Azure ML Studio](https://learn.microsoft.com/en-us/azure/machine-learning/component-reference-v2/image-classification?view=azureml-api-2)
 - [Sample Integrations](https://github.com/JKL404/Cloud_Vision)
+
+### 4. Secure file storage with Hybrid Cryptography
+
+**Domain**: Security
+
+**Tags**: Cloud Security
+
+**Technology**: AWS S3, Azure File Storage
+
+**Complexity**: Intermediate
+
+**Description**: Create a project to store file in completely secured manner, as the file is being encrypted not by just using one but three encryption algorithm which are AES, DES and RC6. Application ensures security of the user’s data stored on cloud by providing a tool that helps to encrypt files. The user must receives the key via email.
+
+**Related Links**:
+- [Hybrid Encryption- Publish Paper](https://ijcrt.org/papers/IJCRT2007048.pdf)
+- [Cryptography Explained - IEEE](https://ieeexplore.ieee.org/document/10084073)
+- [Sample Integrations](https://github.com/Kiinitix/Colossus)
+
+### 5. Realtime Social Media Sentiment Analysis
+
+**Domain**: Sentiment Analysis
+
+**Tags**: Machine Learning (NLP)
+
+**Technology**: GCP AutoML , Azure ML Studio
+
+**Complexity**: Intermediate
+
+**Description**: Create a project for the Sentiment Analysing to predict the emotional state of an individual based on the data input from the person's social media posts and interactions. To perform this analysis, integrate platform like twitter, instagram, etc., to the website or the mobile application and take the user authorized account name and process the data accordingly in your backend server and finally display the result of analysis performed i.e. the emotional state of the individual whose account name was provided.
+
+**Related Links**:
+- [GCP AutoML - Getting Started](https://cloud.google.com/natural-language/automl/docs/beginners-guide)
+- [Social Media Sentiment Analysis](https://www.scaler.com/topics/data-science/social-media-sentiment-analysis/)
+- [Sample Integrations](https://github.com/Chulong-Li/Real-time-Sentiment-Tracking-on-Twitter-for-Brand-Improvement-and-Trend-Recognition)
+
+### 6. FaceNet Distributed Training with Kubeflow
+
+**Domain**: Image Detection and Identification
+
+**Tags**: MLOps
+
+**Technology**: Kubeflow, OpenCV, Kubernetes
+
+**Complexity**: Hard
+
+**Description**: Create a project to demonstrates how to use kubeflow end-to-end to use Tensorflow MuiltiWorkerMirroredStrategy on the local Kubernetes cluster for distributed training, and implement image similarity calculation through FaceNet algorithm and OpenCV face recognition technology.
+
+**Related Links**:
+- [Distributed Computing - Kubeflow pipelines](https://medium.com/@lfoster49203/achieving-scalability-with-distributed-training-in-kubeflow-pipelines-88606fc73dbb)
+- [Tensorflow Distributed training](https://dzlab.github.io/ml/2020/07/18/kubeflow-training/)
+- [Kubeflow Example](https://github.com/kubeflow/examples/tree/master/FaceNet-distributed-training)
+
+### 7. Cloud-Based E-Commerce Platform
+
+**Domain**: E-Commerce
+
+**Tags**: Full Stack
+
+**Technology**: Cloud, 
+
+**Complexity**: Hard
+
+**Description**: Create a project to demonstrates how to use kubeflow end-to-end to use Tensorflow MuiltiWorkerMirroredStrategy on the local Kubernetes cluster for distributed training, and implement image similarity calculation through FaceNet algorithm and OpenCV face recognition technology.
+
+**Related Links**:
+- [Distributed Computing - Kubeflow pipelines](https://medium.com/@lfoster49203/achieving-scalability-with-distributed-training-in-kubeflow-pipelines-88606fc73dbb)
+- [Tensorflow Distributed training](https://dzlab.github.io/ml/2020/07/18/kubeflow-training/)
+- [Ex](https://github.com/kubeflow/examples/tree/master/FaceNet-distributed-training)

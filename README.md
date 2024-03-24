@@ -108,13 +108,13 @@
 
 **Tags**: Full Stack
 
-**Technology**: Cloud, 
+**Technology**: Cloud Database (NoSQL), Containers
 
 **Complexity**: Hard
 
-**Description**: Create a project to demonstrates how to use kubeflow end-to-end to use Tensorflow MuiltiWorkerMirroredStrategy on the local Kubernetes cluster for distributed training, and implement image similarity calculation through FaceNet algorithm and OpenCV face recognition technology.
+**Description**: Create a project which demonstrates e-commerce utility. You need to use Databases hosted in cloud environments for storing user information, product details, admin information.  
 
 **Related Links**:
-- [Distributed Computing - Kubeflow pipelines](https://medium.com/@lfoster49203/achieving-scalability-with-distributed-training-in-kubeflow-pipelines-88606fc73dbb)
+- [Advanced E-commerce with ML](https://github.com/amilakanishka/ECommerce-Product-Recommender-Using-Machine-Learning)
 - [Tensorflow Distributed training](https://dzlab.github.io/ml/2020/07/18/kubeflow-training/)
-- [Ex](https://github.com/kubeflow/examples/tree/master/FaceNet-distributed-training)
+- [Example Scenario](https://github.com/evershopcommerce/evershop)

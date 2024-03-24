@@ -116,5 +116,27 @@
 
 **Related Links**:
 - [Advanced E-commerce with ML](https://github.com/amilakanishka/ECommerce-Product-Recommender-Using-Machine-Learning)
-- [Tensorflow Distributed training](https://dzlab.github.io/ml/2020/07/18/kubeflow-training/)
+- [Effective Use of cloud databases in Ecommerce](https://www.linkedin.com/advice/0/how-can-you-effectively-use-databases-e-commerce-b6m5f#:~:text=Cloud%20databases%20offer%20scalability%2C%20high,or%20down%20based%20on%20demand)
+- [Build digital ecommerce with Google Cloud](https://cloud.google.com/curated-resources/e-commerce)
 - [Example Scenario](https://github.com/evershopcommerce/evershop)
+
+### 8. Phishing platforms identification Portal
+
+**Domain**: Security
+
+**Tags**: Machine Learning, Data Mining
+
+**Technology**: Deep Learning, Azure threat protection ML
+
+**Complexity**: Hard
+
+**Description**: Create a project will identify whether the website link is phishing or scam. Break entire application in THREE parts: 
+- Website: Create a webapp for interacting with ML models using API.
+- ML model: Use Deep Learning algorithms for building advanced AI based phising link detection system.
+- Cloud: Use cloud to host/deploy your ML model and use cloud based fast, realtime, end-to-end encrypted APIs to interact with the model.
+
+**Related Links**:
+- [Phishing Websites Identifier - Kaggle](https://www.kaggle.com/datasets/eswarchandt/phishing-website-detector)
+- [Deep Learning framework for Phishing Link Detection -IEEE Research Paper](https://ieeexplore.ieee.org/document/9661323)
+- [CNNs and Decision Tree Ensemble Learning for Phishing Web Detection](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8709380/)
+- [Example Scenario](https://github.com/ebubekirbbr/dephides/tree/main)
